@@ -1,0 +1,27 @@
+{
+  "name": "merchandise-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Big-Data-Center-of-Excellence/merchandise-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Big-Data-Center-of-Excellence/merchandise-store/issues"
+  },
+  "homepage": "https://github.com/Big-Data-Center-of-Excellence/merchandise-store#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
